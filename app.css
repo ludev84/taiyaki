@@ -5,3 +5,11 @@ body  {
   background-position: center;
   background-size: cover;
 }
+
+#gif1 {
+  width: 80vh;
+}
+
+#menu {
+  height: 80vh;
+}
